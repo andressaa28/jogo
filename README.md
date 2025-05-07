@@ -1,1 +1,2 @@
 # jogo
+pip install pygame
